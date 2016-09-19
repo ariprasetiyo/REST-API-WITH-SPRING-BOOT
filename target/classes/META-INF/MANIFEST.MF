@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: spring-test
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: PT EBC
+Implementation-Vendor-Id: com.ari.spring.test
+Build-Jdk: 1.8.0_91
+Implementation-URL: http://projects.spring.io/spring-boot/spring-test/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
